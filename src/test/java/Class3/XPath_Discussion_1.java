@@ -1,6 +1,6 @@
 package Class3;
 
-public class XPath_Discussion {
+public class XPath_Discussion_1 {
     /**
      * <tag1 attr1="val1" attr2="val2" attr3 attr4="val4">
      *      <tag2>
